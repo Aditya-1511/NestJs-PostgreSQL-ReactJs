@@ -1,0 +1,40 @@
+.mainContainer {
+  width: 50vw;
+  margin: 15%;
+  height: 20vh;
+  padding: 10px;
+  background-color: antiquewhite;
+  border-radius: 5px;
+}
+
+.buttons {
+  display: flex;
+  width: 60%;
+  justify-content: space-around;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+
+.registerbutton {
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+}
+
+.loginButton {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+}
+
+body {
+  background-color: skyblue;
+}

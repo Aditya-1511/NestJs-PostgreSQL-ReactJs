@@ -1,0 +1,19 @@
+.custom-table {
+  border-collapse: collapse;
+  width: 90%;
+  margin-top: 5%;
+  background-color: powderblue;
+  margin: 40px;
+  margin-left: 5%;
+}
+
+.custom-table th,
+.custom-table td {
+  border: 1px solid #000;
+  padding: 8px;
+  text-align: center;
+}
+
+.custom-table th {
+  background-color: #f2f2f2;
+}
